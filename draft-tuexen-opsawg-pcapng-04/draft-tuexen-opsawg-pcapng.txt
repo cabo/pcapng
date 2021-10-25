@@ -5,7 +5,7 @@
 Network Working Group                                     M. Tuexen, Ed.
 Internet-Draft                          Muenster Univ. of Appl. Sciences
 Intended status: Informational                                  F. Risso
-Expires: 7 April 2022                              Politecnico di Torino
+Expires: 28 April 2022                             Politecnico di Torino
                                                              J. Bongertz
                                                  Airbus DS CyberSecurity
                                                                 G. Combs
@@ -16,7 +16,7 @@ Expires: 7 April 2022                              Politecnico di Torino
                                                                  Red Hat
                                                            M. Richardson
                                                                Sandelman
-                                                          4 October 2021
+                                                         25 October 2021
 
 
            PCAP Next Generation (pcapng) Capture File Format
@@ -54,7 +54,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 7 April 2022.
+   This Internet-Draft will expire on 28 April 2022.
 
 Copyright Notice
 
@@ -2304,7 +2304,13 @@ Table of Contents
 13.2.  Informative References
 
    [I-D.richardson-opsawg-pcapng-extras]
-              "*** BROKEN REFERENCE ***".
+              Tuexen, M., Risso, F., Bongertz, J., Combs, G., Harris,
+              G., Chaudron, E., and M. C. Richardson, "Additional block
+              types for PCAP Next Generation (pcapng) Capture File
+              Format", Work in Progress, Internet-Draft, draft-
+              richardson-opsawg-pcapng-extras-00, 4 October 2021,
+              <https://datatracker.ietf.org/doc/html/draft-richardson-
+              opsawg-pcapng-extras-00>.
 
    [LINKTYPES]
               The Tcpdump Group, "the tcpdump.org link-layer header

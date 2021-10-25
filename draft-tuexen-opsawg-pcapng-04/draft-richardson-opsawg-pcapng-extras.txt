@@ -5,7 +5,7 @@
 Network Working Group                                     M. Tuexen, Ed.
 Internet-Draft                          Muenster Univ. of Appl. Sciences
 Intended status: Informational                                  F. Risso
-Expires: 7 April 2022                              Politecnico di Torino
+Expires: 28 April 2022                             Politecnico di Torino
                                                              J. Bongertz
                                                  Airbus DS CyberSecurity
                                                                 G. Combs
@@ -16,7 +16,7 @@ Expires: 7 April 2022                              Politecnico di Torino
                                                                  Red Hat
                                                            M. Richardson
                                                                Sandelman
-                                                          4 October 2021
+                                                         25 October 2021
 
 
  Additional block types for PCAP Next Generation (pcapng) Capture File
@@ -54,7 +54,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 7 April 2022.
+   This Internet-Draft will expire on 28 April 2022.
 
 Copyright Notice
 
@@ -371,9 +371,9 @@ Table of Contents
               Tuexen, M., Risso, F., Bongertz, J., Combs, G., Harris,
               G., Chaudron, E., and M. C. Richardson, "PCAP Next
               Generation (pcapng) Capture File Format", Work in
-              Progress, Internet-Draft, draft-tuexen-opsawg-pcapng-03,
-              23 June 2021, <https://datatracker.ietf.org/doc/html/
-              draft-tuexen-opsawg-pcapng-03>.
+              Progress, Internet-Draft, draft-tuexen-opsawg-pcapng-04, 4
+              October 2021, <https://datatracker.ietf.org/doc/html/
+              draft-tuexen-opsawg-pcapng-04>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,

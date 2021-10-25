@@ -5,8 +5,8 @@
 Network Working Group                                     G. Harris, Ed.
 Internet-Draft                                                          
 Intended status: Informational                             M. Richardson
-Expires: 7 April 2022                                          Sandelman
-                                                          4 October 2021
+Expires: 28 April 2022                                         Sandelman
+                                                         25 October 2021
 
 
                         PCAP Capture File Format
@@ -45,7 +45,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 7 April 2022.
+   This Internet-Draft will expire on 28 April 2022.
 
 Copyright Notice
 
@@ -1627,9 +1627,9 @@ Table of Contents
               Tuexen, M., Risso, F., Bongertz, J., Combs, G., Harris,
               G., Chaudron, E., and M. C. Richardson, "PCAP Next
               Generation (pcapng) Capture File Format", Work in
-              Progress, Internet-Draft, draft-tuexen-opsawg-pcapng-03,
-              23 June 2021, <https://datatracker.ietf.org/doc/html/
-              draft-tuexen-opsawg-pcapng-03>.
+              Progress, Internet-Draft, draft-tuexen-opsawg-pcapng-04, 4
+              October 2021, <https://datatracker.ietf.org/doc/html/
+              draft-tuexen-opsawg-pcapng-04>.
 
    [RFC8126]  Cotton, M., Leiba, B., and T. Narten, "Guidelines for
               Writing an IANA Considerations Section in RFCs", BCP 26,
